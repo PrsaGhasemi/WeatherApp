@@ -4,7 +4,6 @@
   "description": "It's a weather app created with node.js and express.js using REST",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon app.js"
   },
   "keywords": [],
